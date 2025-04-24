@@ -1,0 +1,2 @@
+# Forecasting-U.S.-Inflation-Using-ARIMA-and-FRED-CP
+The goal of this project is to forecast year-over-year (YoY) inflation in the United States using historical data and statistical modeling. Inflation is a key economic indicator that influences monetary policy, purchasing power, and financial planning. Accurate forecasting helps policymakers, investors, and researchers make more informed decisions.
